@@ -10,10 +10,9 @@ Followed Chanin Nantasenamat [Data Professor's](https://github.com/dataprofessor
 ## Hugo Configuration 
 Followed [Hugo installation guide](https://github.com/gohugoio/hugo) to complete the exe file installation
 
-
-
+ 
 
 ## License -- Meghna Hugo Theme
-Copyright © 2020 Designed by Themefisher & Developed by Gethugothemes
-Code License: Released under the MIT license.
-Image license: The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
+* Copyright © 2020 Designed by Themefisher & Developed by Gethugothemes
+* Code License: Released under the MIT license.
+* Image license: The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
