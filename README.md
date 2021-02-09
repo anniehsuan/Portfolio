@@ -7,10 +7,13 @@ Meghna Hugo is a one page professional Hugo website template and crafted with al
 The images used are from Meghna Hugo Theme Example Site and mentioned organizations' website. Icons are from [themify icon pack](https://themify.me/themify-icons)
 ## Setup Process
 Followed Chanin Nantasenamat [Data Professor's](https://github.com/dataprofessor) video and github to build the website
+## Setup Process
+Followed [Google Analytics installation guide](https://github.com/dwyl/learn-google-analytics) to track users' activities for future optimization.
+[Here](https://analytics.google.com/analytics/web/) to create your own account. 
+
 ## Hugo Configuration 
 Followed [Hugo installation guide](https://github.com/gohugoio/hugo) to complete the exe file installation
 
- 
 
 ## License -- Meghna Hugo Theme
 * Copyright © 2020 Designed by Themefisher & Developed by Gethugothemes
