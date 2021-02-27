@@ -30,4 +30,4 @@ Followed [Hugo installation guide](https://github.com/gohugoio/hugo) to complete
 ## License -- Meghna Hugo Theme
 * Copyright © 2020 Designed by Themefisher & Developed by Gethugothemes
 * Code License: Released under the MIT license.
-* Image license: The images are only for demonstration purposes. They have their own licence, I don't have permission to share those image.
+* Image license: The images are only for demonstration purposes. They have their own licence. I don't have permission to share those image.
