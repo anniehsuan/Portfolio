@@ -1,6 +1,18 @@
 # Portfolio
 Here is my [personal website](https://anniehsuan.github.io/Portfolio/), for demonstration propose only.
 
+## Table of Contents 
+- About me page 
+- Educational background page
+- Resume link section
+- Professional expereince page
+- Skillset section 
+- Projects portfolio page
+- Funfact section 
+- Extracurricular activities page 
+- Endorsements section
+- Contact page
+
 ## Meghna Hugo Theme
 Meghna Hugo is a one page professional Hugo website template and crafted with all the necessary elements and features. Apart from the exclusive appearance, the main features of Meghna are video embedding option in the homepage, about, portfolio, service, skills, works, team, testimonial, pricing, and blog sections. I followed the [instructions](https://github.com/themefisher/meghna-hugo) here to build the website.
 ## Images and Icons Used
